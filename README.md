@@ -2,10 +2,10 @@
 
 👀 I'm interested in software development, artificial intelligence, and exploring new technologies.
 
-🌱 I'm currently learning full-stack web development and machine learning.
+🌱 Currently learning full-stack web development and machine learning.
 
-💞️ I'm looking to collaborate on open-source projects related to web development or AI.
+💞️ Open to collaborating on open-source projects in web development or AI.
 
-📫 How to reach me: www.linkedin.com/in/vinay-hirap
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/vinay-hirap).
 
 😄 Pronouns: He/Him
